@@ -1,0 +1,42 @@
+h1 { 
+  font-family: Righteous;
+  color: #382ce2;
+  border: 5px #687dca groove;
+  border-radius: 5px;
+  margin: 100px 100px 15px 100px;
+  padding: 10px;
+  text-align: center;
+  text-shadow: 5px 10px lightpink;
+}  
+form {
+  color:#382ce2 ;
+  font-size: 20px;
+  font-family: Righteous;
+  text-align: center; 
+}
+button {
+  color:lightpink ;
+  padding: 7px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  font-family:Righteous;
+  text-shadow: 3px 3px #687dca;
+}
+input {margin-top: 15px;
+  padding-left:15px ;
+  font-family:Righteous ;
+  font-size: 15px;
+}
+.preguntas {
+  font-family:Righteous ;
+  margin-top: 100px;
+}
+ #preg2{
+   background-color:lightpink ;
+   padding-top: 20px;
+   padding-bottom: 30px;
+   }
+
+body{
+    background-color:#d6eaea
+    }
